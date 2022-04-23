@@ -3,6 +3,7 @@ package org.grc.test;
 public class Employee {
 private void empName() {
 System.out.println("Employee name is prad");
+System.out.println("Employee salary is 75000");
 }
 private void empId() {
 	System.out.println("Employee Id is 500");
