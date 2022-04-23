@@ -3,7 +3,11 @@ package org.grc.test;
 public class Employee {
 private void empName() {
 System.out.println("Employee name is prad");
+<<<<<<< HEAD
+System.out.println("Employee salary is 75000");
+=======
 System.out.println("Employee salary is 50000");
+>>>>>>> 956318f55766b78a4b29e6e531e107c568a0fb2c
 }
 private void empId() {
 	System.out.println("Employee Id is 500");
